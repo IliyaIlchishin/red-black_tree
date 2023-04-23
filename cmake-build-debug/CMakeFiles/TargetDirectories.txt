@@ -1,3 +1,3 @@
-/Users/iliyailchishin/Desktop/GB/C++/Binary tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/iliyailchishin/Desktop/GB/C++/Binary tree/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/iliyailchishin/Desktop/GB/C++/Binary tree/cmake-build-debug/CMakeFiles/Binary_tree.dir
+/Users/iliyailchishin/Desktop/GB/C++/tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/iliyailchishin/Desktop/GB/C++/tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iliyailchishin/Desktop/GB/C++/tree/cmake-build-debug/CMakeFiles/Binary_tree.dir

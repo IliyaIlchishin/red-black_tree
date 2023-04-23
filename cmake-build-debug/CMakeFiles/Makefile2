@@ -64,10 +64,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/iliyailchishin/Desktop/GB/C++/Binary tree"
+CMAKE_SOURCE_DIR = /Users/iliyailchishin/Desktop/GB/C++/tree
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/iliyailchishin/Desktop/GB/C++/Binary tree/cmake-build-debug"
+CMAKE_BINARY_DIR = /Users/iliyailchishin/Desktop/GB/C++/tree/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -94,14 +94,14 @@ clean: CMakeFiles/Binary_tree.dir/clean
 CMakeFiles/Binary_tree.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Binary_tree.dir/build.make CMakeFiles/Binary_tree.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Binary_tree.dir/build.make CMakeFiles/Binary_tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/iliyailchishin/Desktop/GB/C++/Binary tree/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target Binary_tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/iliyailchishin/Desktop/GB/C++/tree/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Binary_tree"
 .PHONY : CMakeFiles/Binary_tree.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Binary_tree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/iliyailchishin/Desktop/GB/C++/Binary tree/cmake-build-debug/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/iliyailchishin/Desktop/GB/C++/tree/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Binary_tree.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/iliyailchishin/Desktop/GB/C++/Binary tree/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/iliyailchishin/Desktop/GB/C++/tree/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Binary_tree.dir/rule
 
 # Convenience name for target.
